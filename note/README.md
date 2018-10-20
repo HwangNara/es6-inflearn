@@ -264,5 +264,5 @@ export default function log(data) {
 ```js
 // app.js
 import log from './myLogger.js';
-log('my first test data);
+log('my first test data');
 ```
